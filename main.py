@@ -5,7 +5,7 @@ import os
 from flask import Flask
 
 # ================= CONFIG =================
-RSS_URL = "https://rss.app/feeds/gDMH42xLPnSfEB6Q.xml"
+RSS_URL = "https://www.infoquest.co.th/economy"
 DISCORD_WEBHOOK = "https://discord.com/api/webhooks/1464073685072740383/Fr2NA2BMrp_JT_ghxfPfFZExlhRIrg-eH1O4N_sIEeAiYuz64Gg9alIsUf66co1wQ8Zk"
 CHECK_INTERVAL = 60  # ตรวจข่าวทุก 60 วินาที
 SENT_FILE = "sent.txt"
